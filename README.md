@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/base-apparel-solution-lP21DFQa3v)
 
 ## My process
 
@@ -47,5 +47,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Seyi-Amusan)
+- Frontend Mentor - [@Seyi-Amusan](https://www.frontendmentor.io/profile/Seyi-Amusan)
 
